@@ -1,0 +1,47 @@
+{
+  "profile_url": "https://dev.to/kazunft",
+  "account_created": "2026-11-27",
+  "prior_posts": [
+    "https://dev.to/kazunft/i-built-a-release-checklist-that-lives-inside-jira-3m24",
+    "https://dev.to/kazunft/i-built-a-site-that-raises-dead-websites-4mbn",
+    "https://dev.to/kazunft/i-built-a-trading-agent-on-a-testnet-and-let-it-trade-36d7"
+  ],
+  "summary": "Built a static docs site from a real API spec with Sourcey 3.9.5 and checked it.",
+  "observations": [
+    {
+      "fact": "Sourcey generator version 3.9.5 was released 8 Nov 2026",
+      "sourcey_url": "https://sourcey.com/oss",
+      "offer_id": null,
+      "quoted_value": "3.9.5 \u00b7 8 Nov 2026",
+      "checked_at": "2026-11-27"
+    },
+    {
+      "fact": "Sourcey is licensed AGPL-3.0-only and takes OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown as inputs",
+      "sourcey_url": "https://sourcey.com/oss",
+      "offer_id": null,
+      "quoted_value": "AGPL-3.0-only",
+      "checked_at": "2026-11-27"
+    },
+    {
+      "fact": "The sourcey/sourcey repository has 1,381 stars, 707 commits, and 32 releases, public since 12 Jan 2016",
+      "sourcey_url": "https://github.com/sourcey/sourcey",
+      "offer_id": null,
+      "quoted_value": "Stars: 1381",
+      "checked_at": "2026-11-27"
+    },
+    {
+      "fact": "The startup-credits records hold 669 offers across 624 companies as canonical YAML under CC BY 4.0",
+      "sourcey_url": "https://sourcey.com/oss",
+      "offer_id": null,
+      "quoted_value": "669 offers across 624 companies",
+      "checked_at": "2026-11-27"
+    },
+    {
+      "fact": "Running sourcey build on a real two-endpoint OpenAPI spec produced a 27-file static site including llms.txt and llms-full.txt in 2.5s",
+      "sourcey_url": "https://sourcey.com/oss",
+      "offer_id": null,
+      "quoted_value": "llms.txt",
+      "checked_at": "2026-11-27"
+    }
+  ]
+}
